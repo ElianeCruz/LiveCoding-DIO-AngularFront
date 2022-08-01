@@ -1,3 +1,11 @@
+# Front-End Angular
+
+Repositório da live ministrada por <a href="https://github.com/naatscs" target="_blank">Natélia Correa</a> 
+Bootcamp Santander/DIO - 2022
+
+## 🚀 Let's code! 🚀
+
+
 # Bookstore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
