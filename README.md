@@ -1,6 +1,6 @@
 # Front-End Angular
 
-Repositório da live ministrada por <a href="https://github.com/naatscs" target="_blank">Natélia Correa</a> 
+Repositório da live ministrada por <a href="https://github.com/naatscs" target="_blank">Natália Correa</a> 
 Bootcamp Santander/DIO - 2022
 
 ## 🚀 Let's code! 🚀
